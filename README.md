@@ -52,7 +52,7 @@ Find something to work on. You can pick one of the open issues, if there are any
 
 If there is something else that you would like to work on or other ways to improve **issuehub**, open an issue first so we can discuss it.
 
-Also, have a look at the [contribution guidelines](https://github.com/despo/issuehub.io/blob/master/CONTRIBUTING.md).
+Also, do have a look at the [contribution guidelines](https://github.com/despo/issuehub.io/blob/master/CONTRIBUTING.md).
 
 ## Copyright
 
