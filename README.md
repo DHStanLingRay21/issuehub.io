@@ -34,7 +34,7 @@ bundle install
 cp .env.example .env
 ```
 
-### Make sure the tests are passing
+### Make sure that the tests are passing
 
 ```bash
 bundle exec rake spec
