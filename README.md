@@ -19,7 +19,7 @@ The reason for making this project is to encourage issue labelling on open sourc
 |    rvm install 2.5.1 |https://rvm.io/rvm/install |
 
 
-### Install the gems using the **Gemfile**
+### Install the gems by using the **Gemfile**
 
 ```bash
 gem install bundler
